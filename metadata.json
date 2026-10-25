@@ -1,0 +1,6 @@
+{
+  "name": "EstateShare",
+  "description": "A tool for sharing real estate property details via Base64 encoded URLs and WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
